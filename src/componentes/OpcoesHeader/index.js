@@ -7,7 +7,7 @@ const Opcao = styled.li`
     align-items: center;
     text-align: center;
     height: 100%;
-    padding: 0 5px;
+    padding: 0 6px;
     cursor: pointer;
     min-width: 120px;
 `
